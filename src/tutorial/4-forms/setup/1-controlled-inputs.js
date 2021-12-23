@@ -4,8 +4,7 @@ import React, { useState } from 'react';
 // const inputValue = input.value
 // React
 // value, onChange
-
-const ControlledInputs = () => {
+const T41_15_ControlledInputs = () => {
   return <h1>controlled inputs</h1>;
 };
 
